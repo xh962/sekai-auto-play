@@ -1,0 +1,10 @@
+# 默认配置示例
+
+templates_dir: templates/sample_buttons
+match_threshold: 0.75
+post_tap_wait: 1.0
+
+scene_templates:
+  sample_show:
+    - start.png
+    - confirm.png
